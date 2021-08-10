@@ -1,12 +1,28 @@
 module.exports = {
   title: 'yangzhenyu\'s blog',
   description: 'A blog powered by VuePress',
-  theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
+
   themeConfig: {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#dateformat
      */
 
+    // dateFormat: 'YYYY-MM-DD',
+
+    /**
+     * Ref: https://vuepress-theme-blog.ulivz.com/config/#nav
+     */
+
+    // nav: [
+    //   {
+    //     text: 'Blog',
+    //     link: '/',
+    //   },
+    //   {
+    //     text: 'Tags',
+    //     link: '/tag/',
+    //   },
+    // ],
 
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#footer
