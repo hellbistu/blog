@@ -7,22 +7,6 @@ module.exports = {
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#dateformat
      */
 
-    // dateFormat: 'YYYY-MM-DD',
-
-    /**
-     * Ref: https://vuepress-theme-blog.ulivz.com/config/#nav
-     */
-
-    // nav: [
-    //   {
-    //     text: 'Blog',
-    //     link: '/',
-    //   },
-    //   {
-    //     text: 'Tags',
-    //     link: '/tag/',
-    //   },
-    // ],
 
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#footer
