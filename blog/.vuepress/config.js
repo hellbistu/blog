@@ -31,16 +31,16 @@ module.exports = {
       contact: [
         {
           type: "github",
-          link: "https://github.com/newsbielt703"
+          link: "https://github.com/hellbistu"
         },
         {
           type: "mail",
-          link: "mailto:newsbielt703@gmail.com"
+          link: "1071343872@qq.com"
         }
       ],
       copyright: [
         {
-          text: "Billy Chin © 2020",
+          text: "yangzhenyu © 2021",
           link: ""
         }
       ]
