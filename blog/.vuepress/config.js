@@ -1,7 +1,7 @@
 module.exports = {
   title: 'yangzhenyu\'s blog',
   description: 'A blog powered by VuePress',
-
+  theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
   themeConfig: {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#dateformat
