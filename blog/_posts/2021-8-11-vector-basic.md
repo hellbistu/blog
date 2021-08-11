@@ -1,3 +1,4 @@
+---
 title: 向量基础
 date: 2021-8-11
 tags: 
@@ -5,8 +6,7 @@ tags:
   - 计算机图形学
 author: yangzhenyu
 location: beijing  
-
------
+---
 
 ## 向量的定义
 
