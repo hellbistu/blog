@@ -3,7 +3,7 @@ module.exports = {
   description: 'A blog powered by VuePress',
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
   plugins: [
-    'latex' // or 'vuepress-plugin-latex'
+    'vuepress-plugin-latex' // or 'vuepress-plugin-latex'
   ],
   themeConfig: {
     /**
