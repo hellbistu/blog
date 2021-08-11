@@ -2,6 +2,9 @@ module.exports = {
   title: 'yangzhenyu\'s blog',
   description: 'A blog powered by VuePress',
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
+  plugins: [
+    'latex' // or 'vuepress-plugin-latex'
+  ],
   themeConfig: {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#dateformat
