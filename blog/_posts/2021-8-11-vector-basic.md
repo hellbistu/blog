@@ -72,7 +72,7 @@ $(k\vec{a})\cdot\vec{b} = k(\vec{a}\cdot\vec{b}) = \vec{a}\cdot(k\vec{b})$​​
 
 叉乘（外积、向量积）：结果是一个向量。
 
-$\vec{a}\times\vec{b} = |\vec{a}||\vec{b}|\sin{\theta}\vec{n}$，其中n为一个与$vec{a},\vec{b}$向量构成平面垂直的单位向量，方向由右手法则确定。可以看到，这个新向量的大小是这两个向量构成平行四边形的面积
+$\vec{a}\times\vec{b} = |\vec{a}||\vec{b}|\sin{\theta}\vec{n}$​，其中n为一个与$\vec{a},\vec{b}$​向量构成平面垂直的单位向量，方向由右手法则确定。可以看到，这个新向量的大小是这两个向量构成平行四边形的面积
 
 若三维向量  $\vec{a} = (x_a,y_a,z_a),\vec{b} = (x_b,y_b,z_b)$,则可以这样表示：
 
