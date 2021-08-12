@@ -38,7 +38,7 @@ module.exports = {
         },
         {
           type: "mail",
-          link: "1071343872@qq.com"
+          link: "mailto:1071343872@qq.com"
         }
       ],
       copyright: [

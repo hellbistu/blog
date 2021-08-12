@@ -10,7 +10,7 @@ location: beijing
 
 ## 向量的定义
 
-指一个同时具有大小和方向量。可以形象的表示为带箭头的线段。
+一个同时具有大小和方向的量就是向量。可以形象的表示为带箭头的线段。
 
 可以记为 $\vec{a}$​​​​ 或者 ***a***
 
@@ -30,7 +30,7 @@ $\vec{a} = (x,y,z) = x\vec{i} + y\vec{j} + z\vec{k}$
 
 在矩阵运算中，向量通常被写成类似矩阵的列向量或行向量。在线性代数中所指的向量默认为列向量。如一个向量 $\vec{a} = (x,y,z)$​​​ 可写成：
 
-$\vec{a} = \begin{bmatrix} x \\ y \\ z \end{bmatrix}$​​
+$***a*** = \begin{bmatrix} x \\ y \\ z \end{bmatrix}$​​
 
 $\vec{a}^T = \begin{bmatrix}x&y&z\end{bmatrix}$​​​​​​​​​​
 
