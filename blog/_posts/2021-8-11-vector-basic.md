@@ -38,7 +38,7 @@ $\vec{a} = (x,y,z) = x\vec{i} + y\vec{j} + z\vec{k}$
 
 ## 向量的运算
 
-向量的加法：
+### 加法：
 
 $\vec{a} = x_a\vec{i} + y_a\vec{j} + z_a\vec{k} = (x_a,y_a,z_a)$​​​​ 
 
@@ -52,36 +52,27 @@ $\vec{a} + \vec{b} = (x_a + x_b)\vec{i} + (y_a + y_b)\vec{j} + (z_a + z_b)\vec{k
 
 ***交换律***： $\vec{a} + \vec{b} = \vec{b} + \vec{a}$​
 
-数量积（点积、内积、标量积）：结果是一个标量。
-
+### 数量积（点积、内积、标量积）：
+数量积的结果是一个标量。
 $\vec{a}\cdot\vec{b} = |\vec{a}||\vec{b}|\cos{\theta}$ （其中在$\theta$为两个向量的夹角）
 
 若三维向量  $\vec{a} = (x_a,y_a,z_a),\vec{b} = (x_b,y_b,z_b)$​,则
-
 $\vec{a}\cdot\vec{b} = x_ax_b + y_ay_b + z_az_b$​​​
 
 数量积满足以下***交换律***、***分配律***、***与标量的结合律***：
-
 $\vec{a}\cdot\vec{b} = \vec{b}\cdot\vec{a}$​​​
-
 $\vec{a}\cdot(\vec{b} + \vec{c})= \vec{a}\cdot\vec{b} + \vec{a}\cdot\vec{c}$​​​​​
-
 $(k\vec{a})\cdot\vec{b} = k(\vec{a}\cdot\vec{b}) = \vec{a}\cdot(k\vec{b})$​​
 
-
-
-叉乘（外积、向量积）：结果是一个向量。
+### 叉乘（外积、向量积）：
+叉乘的结果是一个向量。
 
 $\vec{a}\times\vec{b} = |\vec{a}||\vec{b}|\sin{\theta}\vec{n}$​，其中n为一个与$\vec{a},\vec{b}$​向量构成平面垂直的单位向量，方向由右手法则确定。可以看到，这个新向量的大小是这两个向量构成平行四边形的面积
 
 若三维向量  $\vec{a} = (x_a,y_a,z_a),\vec{b} = (x_b,y_b,z_b)$,则可以这样表示：
-
 $\vec{a}\times\vec{b} = (x_a\vec{i} + y_a\vec{j} + z_a\vec{k})\times(x_b\vec{i} + y_b\vec{j} + z_b\vec{k}) = \begin{vmatrix}\vec{i}&\vec{j}&\vec{k}\\x_a&y_a&z_a\\x_b&y_b&z_b\end{vmatrix} = (y_az_b - z_ay_b)\vec{i} + (z_ax_b - x_az_b)\vec{j} + (x_ay_b - y_ax_b)\vec{k} = (y_az_b - z_ay_b,z_ax_b - x_az_b,x_ay_b - y_ax_b)$​​​​​​​​​​​
 
 叉乘满足 分配律、与标量的结合律、反交换律：
-
 $\vec{a}\times(\vec{b} + \vec{c}) = \vec{a}\times\vec{b} + \vec{a}\times\vec{c}$
-
 $(k\vec{a})\times\vec{b} = k(\vec{a}\times\vec{b}) = \vec{a}\times(k\vec{b})$
-
 $\vec{a}\times\vec{b} = -\vec{b}\times\vec{a}$
