@@ -61,7 +61,9 @@ $\vec{a}\cdot\vec{b} = x_ax_b + y_ay_b + z_az_b$​​​
 
 数量积满足 ***交换律***、***分配律***、***与标量的结合律***：
 $\vec{a}\cdot\vec{b} = \vec{b}\cdot\vec{a}$​​​
+
 $\vec{a}\cdot(\vec{b} + \vec{c})= \vec{a}\cdot\vec{b} + \vec{a}\cdot\vec{c}$​​​​​
+
 $(k\vec{a})\cdot\vec{b} = k(\vec{a}\cdot\vec{b}) = \vec{a}\cdot(k\vec{b})$​​
 
 ### 叉乘（外积、向量积）：
