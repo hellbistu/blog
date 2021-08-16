@@ -32,7 +32,7 @@ $\vec{a} = (x,y,z) = x\vec{i} + y\vec{j} + z\vec{k}$
 
 ***a*** $= \begin{bmatrix} x \\ y \\ z \end{bmatrix}$​​
 
-***a***^T^ $= \begin{bmatrix}x&y&z\end{bmatrix}$​​​​​​​​​​
+***a^T^*** $= \begin{bmatrix}x&y&z\end{bmatrix}$​​​​​​​​​​
 
 
 
