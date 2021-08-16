@@ -30,9 +30,9 @@ $\vec{a} = (x,y,z) = x\vec{i} + y\vec{j} + z\vec{k}$
 
 在矩阵运算中，向量通常被写成类似矩阵的列向量或行向量。在线性代数中所指的向量默认为列向量。如一个向量 ***a*** = (x,y,z)。 可写成：
 
-***a*** $= \begin{bmatrix} x \\ y \\ z \end{bmatrix}$​​
+$\textbf{a} = \begin{bmatrix} x \\ y \\ z \end{bmatrix}$​​
 
-***a^T^*** $= \begin{bmatrix}x&y&z\end{bmatrix}$​​​​​​​​​​
+$\textbf{a}^T= \begin{bmatrix}x&y&z\end{bmatrix}$​​​​​​​​​​
 
 
 
